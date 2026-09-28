@@ -1,5 +1,4 @@
 package com.renteasy.controller;
-
 import com.renteasy.dto.PaymentRequest;
 import com.renteasy.dto.PaymentResponse;
 import com.renteasy.dto.ReceiptResponse;
